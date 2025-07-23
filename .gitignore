@@ -1,0 +1,21 @@
+# Rust .gitignore example file
+/target/
+**/*.rs.bk
+
+# VSCode settings
+.vscode/
+*.code-workspace
+
+# Temporary OS files
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
