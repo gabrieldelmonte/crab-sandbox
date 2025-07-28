@@ -1,5 +1,3 @@
-
-
 fn main() {
     // Tuples
     let tup = (150, 25.7, 1, "Gabriel", true);

@@ -1,5 +1,5 @@
 # Rust .gitignore example file
-/target/
+target/
 **/*.rs.bk
 
 # VSCode settings
