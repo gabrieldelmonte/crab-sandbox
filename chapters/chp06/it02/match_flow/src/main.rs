@@ -1,6 +1,6 @@
 #[derive(Debug)]
 enum USState {
-    Alabama
+    Alabama,
     // ...
 }
 
